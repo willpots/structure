@@ -19,6 +19,9 @@ Vector.prototype = {
 	set: function(i, val) {
 		this.data[i] = val;
 	},
+	add: function(i) {
+		this.data[this.data.length] = i;
+	},
 	remove: function(i) {
 		val = this.data[i];
 		for (var j = i; j < this.data.length - 1; j++) {

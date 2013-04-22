@@ -34,4 +34,3 @@ var Stack = function() {
 	this.data = []
 	this.last = 0;
 }
-Stack.

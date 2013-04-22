@@ -5,10 +5,11 @@ I decided to create this library to try and implement data structures in Javascr
 
 ##Supported Now
 * Vector
-
-
-##To be supported
+* Stack
+* Queue
 * SinglyLinkedList
 * DoublyLinkedList
+
+##To be supported
 * Tree
 * Graph
